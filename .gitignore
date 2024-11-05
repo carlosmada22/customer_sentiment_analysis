@@ -1,0 +1,4 @@
+s3-access-user_credentials.csv
+*.zip
+*.csv
+__pycache__
